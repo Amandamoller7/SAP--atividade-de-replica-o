@@ -7,13 +7,16 @@ body{
 
 
 #navbar{
-    background-color: rgb(168, 167, 167);
+    background-color: rgb(194, 193, 193);
     color: rgb(0, 0, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 #navbar   img{
-    
+    margin: 0px;
+    padding:0px;
+    width: 2000px ;
+    height: 30px ;
 
 }
 
