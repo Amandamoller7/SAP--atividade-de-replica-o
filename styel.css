@@ -4,6 +4,10 @@ body{
 }
 
 
-.navebar{
-    
+#navebar{
+    background-color: rgb(134, 134, 134);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
+
+.titulo
